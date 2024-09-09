@@ -11,6 +11,7 @@ For the scroll in the CHOOSE YOUR SETUP section:
 
     - > $${\color{yellow}Sathish's Response/Query}$$
       > <svg xmlns="http://www.w3.org/2000/svg" width="200" height="30">  <text x="0" y="15" fill="black">This text is for light theme</text></svg>
+      
       > <svg xmlns="http://www.w3.org/2000/svg" width="200" height="30"><text x="0" y="15" fill="white">This text is for dark theme</text></svg>
 
         - > We will use Metafields and set it to use MetaObjects that will extend the data structure
