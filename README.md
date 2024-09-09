@@ -10,9 +10,7 @@ For the scroll in the CHOOSE YOUR SETUP section:
 - for the addons, I think the best way to do this is to have the following separate metafields on the product page that product variants can be added to: Battery Monitor, Battery Charger, Mounting Bracket, Inverter, Side Rails, RV Compliance Kit, and a discount metafield for each of them where if no value is added there is no discount, however if there is a value it will apply the discount to all addons under that specific metafield
 
     - > $${\color{yellow}Sathish's Response/Query}$$
-      > <svg xmlns="http://www.w3.org/2000/svg" width="200" height="30">
-  <text x="0" y="15" fill="black">This text is for light theme</text>
-</svg>
+      > <svg xmlns="http://www.w3.org/2000/svg" width="200" height="30">  <text x="0" y="15" fill="black">This text is for light theme</text></svg>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="30">
   <text x="0" y="15" fill="white">This text is for dark theme</text>
